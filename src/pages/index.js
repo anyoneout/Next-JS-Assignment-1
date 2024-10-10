@@ -39,7 +39,7 @@ export default function Home() {
             <li>
               Get started by editing <code>src/pages/index.js</code>.
             </li>
-            <li>Save and see your changes instantly.</li>
+            <li>"So, this ride is safe?"</li>
           </ol>
 
           <div className={styles.ctas}>
